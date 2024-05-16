@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+      background-image:linear-gradient(to right,gray,white,gray);
+}
+h1{
+    text-align: center;
+    font-size:46px;
+    font-family: cursive;
+    text-shadow: -4px 2px gray; 
+}
+img {
+    width: 170px;
+    height:195px;
+    margin: 10px;
+}
+.bio{
+    display: flex;
+}
+h2{
+     text-align: center;
+    font-size:46px;
+    font-family: cursive;
+    text-shadow: -4px 2px gray; 
+}
+p{
+    font-family: cursive;
+}
+.tiktok{
+height: 60px;
+width: 60px;
+border-radius: 20px;
+}
+.kanal{
+    height: 60px;
+width: 60px;
+border-radius: 20px;
+}
+footer{
+    border-top: 1px dashed black;
+border-bottom: 1px dashed black;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    color:black;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
